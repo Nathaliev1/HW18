@@ -30,7 +30,7 @@ header{
   background-image: url(foto.jpeg);
   width: 100%;
   padding: 15px;
-  background-position: center left;
+  background-position: left;
 }
 footer{
   position: relative;
