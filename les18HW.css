@@ -51,9 +51,10 @@ div lijst2{
 h1{
   font-family: fantasy;
 }
+.lijst1{
+  background-color: yellow;
 .lijst1 ol{
   list-style: circle;
-  background-color: yellow;
   margin: 0px;
   padding: 0px;
 }
