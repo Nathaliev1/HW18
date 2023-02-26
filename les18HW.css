@@ -41,10 +41,7 @@ background-color: green;
 div row{
   width: 100%;
 }
-div lijst1{
-  background-color: yellow;
-  width: 100%;
-}
+
 div lijst2{
   width: 50%;
   min-height: 600px;
@@ -55,7 +52,7 @@ h1{
   font-family: fantasy;
 }
 .lijst1 ol{
-  list-style: none;
+  list-style: circle;
   margin: 0px;
   padding: 0px;
 }
