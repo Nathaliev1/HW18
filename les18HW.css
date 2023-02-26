@@ -53,11 +53,12 @@ h1{
 }
 .lijst1 ol{
   list-style: circle;
+  background-color: yellow;
   margin: 0px;
   padding: 0px;
 }
 .lijst1 li{
-padding: 15px 25px 15px 25px;
+padding: 15px 
 margin-bottom: 10px;   
    }
 .lijst2{
