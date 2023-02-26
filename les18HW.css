@@ -41,7 +41,10 @@ background-color: green;
 div row{
   width: 100%;
 }
-
+div lijst1{
+  background-color: yellow;
+  width: 50%;
+}
 div lijst2{
   width: 50%;
   min-height: 600px;
@@ -58,10 +61,7 @@ h1{
 }
 .lijst1 li{
 padding: 15px 25px 15px 25px;
-margin-bottom: 10px;
-background-color: yellow;
-
-     
+margin-bottom: 10px;   
    }
 .lijst2{
   display: inline-block;
