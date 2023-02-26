@@ -61,7 +61,7 @@ padding: 15px;
 margin-bottom: 10px;
 background-color: yellow;
 
-}@media only screen and (min-width: 100px) {.lijst1{display: inline-block;}
+}@media only screen and (min-width: 100px) {ol {display: inline-block;}
      
    }
 .lijst2{
